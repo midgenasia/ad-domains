@@ -1,0 +1,11 @@
+33.asahi.com
+adv.asahi.com
+asm.asahi.com
+imp.asahi.com
+somewrite.com
+cmertv.com
+outbrain.com
+afl.rakuten.co.jp
+googletagmanager.com
+googletagservices.com
+cmertv.com
