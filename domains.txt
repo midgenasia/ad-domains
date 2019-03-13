@@ -1,0 +1,9 @@
+127.0.0.1   33.asahi.com
+127.0.0.1   adv.asahi.com
+127.0.0.1   asm.asahi.com
+127.0.0.1   imp.asahi.com
+127.0.0.1   somewrite.com
+127.0.0.1   outbrain.com
+127.0.0.1   afl.rakuten.co.jp
+127.0.0.1   googletagmanager.com
+127.0.0.1   googletagservices.com
